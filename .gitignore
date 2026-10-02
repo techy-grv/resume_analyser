@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+resumes/**
+faiss_index/**
 eggs/
 .eggs/
 lib/
